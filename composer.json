@@ -3,13 +3,13 @@
     "description": "this is just a test package",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Biplab",
             "email": "skbiplab143@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Biplab\\Bspkg\\": "src/"
