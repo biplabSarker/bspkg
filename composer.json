@@ -1,0 +1,19 @@
+{
+    "name": "biplab/bspkg",
+    "description": "this is just a test package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Biplab",
+            "email": "skbiplab143@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Biplab\\Bspkg\\": "src/"
+        }
+    }
+}
